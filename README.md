@@ -1,6 +1,6 @@
 # PowerBI-sales-dashboard-2
 
-This project focuses on Super Store Sales Data Analysis and Forecasting with Power BI. Welcome to the Super Store Sales Data Analysis project! 📊🚀 In this repository, I've leveraged Power BI to analyze historical sales data and forecast the next 15 days' performance for a Super Store. Dive into the insights and explore the potential for data-driven decision-making.
+This project focuses on Super Store Sales Data Analysis and Forecasting with Power BI. Welcome to the Super Store Sales Data Analysis project! In this repository, I've leveraged Power BI to analyze historical sales data and forecast the next 15 days' performance for a Super Store. Dive into the insights and explore the potential for data-driven decision-making.
 
 ## Key Features
 1. Data Transformation:
