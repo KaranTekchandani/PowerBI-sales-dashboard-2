@@ -9,23 +9,13 @@ This project focuses on Super Store Sales Data Analysis and Forecasting with Pow
 
 
 ## Key Features
-1. Data Transformation:
-Transformed raw data into meaningful insights using Power BI, ensuring accuracy and reliability.
+Dashboard Creation: Identifying the KPIs, designing an intuitive and visually appealing dashboard, adding interactive visualizations and filtering capabilities to allow users to explore the data at various levels of granularity.
 
-2. Visual Appeal:
-Crafted visually engaging reports for easy comprehension, making data accessible to a wider audience.
+Data Analysis: Providing valuable insights to business entities regarding the effectiveness of their sales strategies through visualization and charts.
 
-3. Trend Identification:
-Unveiled crucial sales trends to empower stakeholders with actionable insights.
+Sales Forecasting: To leverage historic data and apply time series models to generate sales forecasts for next 15 days.
 
-4. Opportunity Spotting:
-Identified opportunities for strategic improvements and business growth.
-
-5. Forecasting Precision:
-Utilized Power BI's forecasting capabilities to predict the next 15 days' sales performance with high accuracy.
-
-6. User-Friendly Format:
-Ensured information accessibility in an easy-to-understand format, facilitating seamless navigation through the reports.
+Actionable Insights and Recommendations: End goal is to provide insights and actionable information that can drive strategic decisions to support the supermarket's goals for growth, efficiency, and customer satisfaction.
 
 ## Getting Started
 
