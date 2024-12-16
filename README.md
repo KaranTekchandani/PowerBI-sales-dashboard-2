@@ -2,6 +2,12 @@
 
 This project focuses on Super Store Sales Data Analysis and Forecasting with Power BI. Welcome to the Super Store Sales Data Analysis project! In this repository, I've leveraged Power BI to analyze historical sales data and forecast the next 15 days' performance for a Super Store. Dive into the insights and explore the potential for data-driven decision-making.
 
+##  Demo
+![306198182-7076d36e-8c3c-4f14-a9a6-600df8f32de9](https://github.com/user-attachments/assets/64455916-7350-41d9-b79a-06166f8f99c6)
+![306198932-43edbc8f-cc4b-4a5e-a2be-e21f2171939b](https://github.com/user-attachments/assets/5ba0b512-444a-4aef-9a17-d0648662d7c5)
+
+
+
 ## Key Features
 1. Data Transformation:
 Transformed raw data into meaningful insights using Power BI, ensuring accuracy and reliability.
