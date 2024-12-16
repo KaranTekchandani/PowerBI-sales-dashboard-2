@@ -8,7 +8,7 @@ This project focuses on Super Store Sales Data Analysis and Forecasting with Pow
 
 
 
-## Key Features
+## Plan
 Dashboard Creation: Identifying the KPIs, designing an intuitive and visually appealing dashboard, adding interactive visualizations and filtering capabilities to allow users to explore the data at various levels of granularity.
 
 Data Analysis: Providing valuable insights to business entities regarding the effectiveness of their sales strategies through visualization and charts.
@@ -16,6 +16,9 @@ Data Analysis: Providing valuable insights to business entities regarding the ef
 Sales Forecasting: To leverage historic data and apply time series models to generate sales forecasts for next 15 days.
 
 Actionable Insights and Recommendations: End goal is to provide insights and actionable information that can drive strategic decisions to support the supermarket's goals for growth, efficiency, and customer satisfaction.
+
+## Learning
+Incorporated data analysis techniques, specialising in time series analysis, to deliver valuable insights, accurate sales forecasting and interactive dashboard creation, driving business success. 
 
 ## Getting Started
 
